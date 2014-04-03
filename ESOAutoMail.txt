@@ -1,0 +1,5 @@
+## Title ESO AutoMail
+## APIVersion 100003
+
+ESOAutoMail.lua
+ESOAutoMail.xml
